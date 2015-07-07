@@ -1,0 +1,10 @@
+﻿Stanza
+----------
+HymnNumber INT
+Number INT
+Content TEXT
+
+Hymn
+---------
+Number INT
+Title TEXT
